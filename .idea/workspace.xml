@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8206fdb4-d69e-419e-9f93-8ba591edd24a" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/Javascript/事件循环event loop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript/从原型到原型链.md" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/从原型到原型链.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webpack/webpack问题汇总.md" beforeDir="false" afterPath="$PROJECT_DIR$/Webpack/webpack问题汇总.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试经历/2020.8面经/婚礼纪.md" beforeDir="false" afterPath="$PROJECT_DIR$/面试经历/2020.8面经/婚礼纪.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eFdQqvsL5DpfmaNIB6nzBPBIby" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../工作/git/yjportal-web" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8206fdb4-d69e-419e-9f93-8ba591edd24a" name="默认的" comment="" />
+      <created>1593921261196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593921261196</updated>
+      <workItem from="1593921262493" duration="22000" />
+      <workItem from="1594804364499" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="319" key="FileChooserDialogImpl" timestamp="1594804403252">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="805" y="319" key="FileChooserDialogImpl/0.0.2048.1122@0.0.2048.1122" timestamp="1594804403252" />
+  </component>
+</project>
